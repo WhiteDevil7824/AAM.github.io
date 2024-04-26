@@ -6,6 +6,14 @@ ul{
     list-style-type: none;
     padding-right: 200px;
 }
+
+body{
+    background-image: url(Grand Theft Auto five.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 li:hover{
     background-color: violet;
 }
